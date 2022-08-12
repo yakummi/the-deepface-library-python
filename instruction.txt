@@ -1,0 +1,5 @@
+[+] First you need to install the deepface library [+]
+========================================================
+[+] Next, specify the path of your img [+]
+========================================================
+[+] Then work with the library [+]
